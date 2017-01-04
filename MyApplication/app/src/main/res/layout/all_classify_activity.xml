@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@color/white">
+
+    <RelativeLayout
+        android:id="@+id/rl_topbar"
+        android:layout_width="match_parent"
+        android:layout_height="46dp"
+        android:background="@color/main_blue"
+        android:paddingRight="0px">
+
+
+        <TextView
+            android:id="@+id/tv_center"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_centerInParent="true"
+            android:text="全部分类"
+            android:textColor="@color/white"
+            android:textSize="18sp" />
+        <Button
+            android:id="@+id/btn_back"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="返回"/>
+
+    </RelativeLayout>
+
+    <widget.ViewPagerIndicator
+        android:id="@+id/pager_indicator"
+        android:layout_width="match_parent"
+        android:layout_height="39dp"
+        android:layout_below="@id/rl_topbar"
+        android:background="@color/text_bac1c3"
+        android:visibility="visible" />
+
+    <android.support.v4.view.ViewPager
+        android:id="@+id/vp_pager"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:layout_below="@id/pager_indicator" />
+
+    <!--<com.yunke.xiaovo.widget.EmptyLayout-->
+        <!--android:id="@+id/el_empty"-->
+        <!--android:layout_width="match_parent"-->
+        <!--android:layout_height="match_parent"-->
+        <!--android:layout_below="@id/rl_topbar"-->
+        <!--android:visibility="visible" />-->
+</RelativeLayout>

@@ -1,0 +1,240 @@
+[
+    {
+        "outputFile": "D:\\TalkWeb\\ZBQ_AS_DEMO\\MyApplication\\pullToRefreshListFragment\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-zh\\values-zh.xml",
+        "map": [
+            {
+                "to": {
+                    "startLine": 2,
+                    "startColumn": 4,
+                    "startOffset": 55,
+                    "endColumn": 71,
+                    "endOffset": 122
+                },
+                "from": {
+                    "file": "D:\\TalkWeb\\ZBQ_AS_DEMO\\MyApplication\\pullToRefreshListFragment\\build\\intermediates\\exploded-aar\\MyApplication\\pullToRefreshLibrary\\unspecified\\res\\values-zh\\values-zh.xml",
+                    "position": {
+                        "startLine": 2,
+                        "startColumn": 4,
+                        "startOffset": 55,
+                        "endColumn": 71,
+                        "endOffset": 122
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 3,
+                    "startColumn": 4,
+                    "startOffset": 127,
+                    "endColumn": 80,
+                    "endOffset": 203
+                },
+                "from": {
+                    "file": "D:\\TalkWeb\\ZBQ_AS_DEMO\\MyApplication\\pullToRefreshListFragment\\build\\intermediates\\exploded-aar\\MyApplication\\pullToRefreshLibrary\\unspecified\\res\\values-zh\\values-zh.xml",
+                    "position": {
+                        "startLine": 3,
+                        "startColumn": 4,
+                        "startOffset": 127,
+                        "endColumn": 80,
+                        "endOffset": 203
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 4,
+                    "startColumn": 4,
+                    "startOffset": 208,
+                    "endColumn": 75,
+                    "endOffset": 279
+                },
+                "from": {
+                    "file": "D:\\TalkWeb\\ZBQ_AS_DEMO\\MyApplication\\pullToRefreshListFragment\\build\\intermediates\\exploded-aar\\MyApplication\\pullToRefreshLibrary\\unspecified\\res\\values-zh\\values-zh.xml",
+                    "position": {
+                        "startLine": 4,
+                        "startColumn": 4,
+                        "startOffset": 208,
+                        "endColumn": 75,
+                        "endOffset": 279
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 5,
+                    "startColumn": 4,
+                    "startOffset": 284,
+                    "endColumn": 60,
+                    "endOffset": 340
+                },
+                "from": {
+                    "file": "D:\\TalkWeb\\ZBQ_AS_DEMO\\MyApplication\\pullToRefreshListFragment\\build\\intermediates\\exploded-aar\\MyApplication\\pullToRefreshLibrary\\unspecified\\res\\values-zh\\values-zh.xml",
+                    "position": {
+                        "startLine": 5,
+                        "startColumn": 4,
+                        "startOffset": 284,
+                        "endColumn": 60,
+                        "endOffset": 340
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 6,
+                    "startColumn": 4,
+                    "startOffset": 345,
+                    "endColumn": 66,
+                    "endOffset": 407
+                },
+                "from": {
+                    "file": "D:\\TalkWeb\\ZBQ_AS_DEMO\\MyApplication\\pullToRefreshListFragment\\build\\intermediates\\exploded-aar\\MyApplication\\pullToRefreshLibrary\\unspecified\\res\\values-zh\\values-zh.xml",
+                    "position": {
+                        "startLine": 6,
+                        "startColumn": 4,
+                        "startOffset": 345,
+                        "endColumn": 66,
+                        "endOffset": 407
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 7,
+                    "startColumn": 4,
+                    "startOffset": 412,
+                    "endColumn": 64,
+                    "endOffset": 472
+                },
+                "from": {
+                    "file": "D:\\TalkWeb\\ZBQ_AS_DEMO\\MyApplication\\pullToRefreshListFragment\\build\\intermediates\\exploded-aar\\MyApplication\\pullToRefreshLibrary\\unspecified\\res\\values-zh\\values-zh.xml",
+                    "position": {
+                        "startLine": 7,
+                        "startColumn": 4,
+                        "startOffset": 412,
+                        "endColumn": 64,
+                        "endOffset": 472
+                    }
+                }
+            }
+        ]
+    },
+    {
+        "outputFile": "D:\\TalkWeb\\ScroViewRecycleViewDemo\\MyApplication\\pullToRefreshListFragment\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-zh\\values-zh.xml",
+        "map": [
+            {
+                "to": {
+                    "startLine": 2,
+                    "startColumn": 4,
+                    "startOffset": 55,
+                    "endColumn": 71,
+                    "endOffset": 122
+                },
+                "from": {
+                    "file": "D:\\TalkWeb\\ScroViewRecycleViewDemo\\MyApplication\\pullToRefreshListFragment\\build\\intermediates\\exploded-aar\\MyApplication\\pullToRefreshLibrary\\unspecified\\res\\values-zh\\values-zh.xml",
+                    "position": {
+                        "startLine": 2,
+                        "startColumn": 4,
+                        "startOffset": 55,
+                        "endColumn": 71,
+                        "endOffset": 122
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 3,
+                    "startColumn": 4,
+                    "startOffset": 127,
+                    "endColumn": 80,
+                    "endOffset": 203
+                },
+                "from": {
+                    "file": "D:\\TalkWeb\\ScroViewRecycleViewDemo\\MyApplication\\pullToRefreshListFragment\\build\\intermediates\\exploded-aar\\MyApplication\\pullToRefreshLibrary\\unspecified\\res\\values-zh\\values-zh.xml",
+                    "position": {
+                        "startLine": 3,
+                        "startColumn": 4,
+                        "startOffset": 127,
+                        "endColumn": 80,
+                        "endOffset": 203
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 4,
+                    "startColumn": 4,
+                    "startOffset": 208,
+                    "endColumn": 75,
+                    "endOffset": 279
+                },
+                "from": {
+                    "file": "D:\\TalkWeb\\ScroViewRecycleViewDemo\\MyApplication\\pullToRefreshListFragment\\build\\intermediates\\exploded-aar\\MyApplication\\pullToRefreshLibrary\\unspecified\\res\\values-zh\\values-zh.xml",
+                    "position": {
+                        "startLine": 4,
+                        "startColumn": 4,
+                        "startOffset": 208,
+                        "endColumn": 75,
+                        "endOffset": 279
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 5,
+                    "startColumn": 4,
+                    "startOffset": 284,
+                    "endColumn": 60,
+                    "endOffset": 340
+                },
+                "from": {
+                    "file": "D:\\TalkWeb\\ScroViewRecycleViewDemo\\MyApplication\\pullToRefreshListFragment\\build\\intermediates\\exploded-aar\\MyApplication\\pullToRefreshLibrary\\unspecified\\res\\values-zh\\values-zh.xml",
+                    "position": {
+                        "startLine": 5,
+                        "startColumn": 4,
+                        "startOffset": 284,
+                        "endColumn": 60,
+                        "endOffset": 340
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 6,
+                    "startColumn": 4,
+                    "startOffset": 345,
+                    "endColumn": 66,
+                    "endOffset": 407
+                },
+                "from": {
+                    "file": "D:\\TalkWeb\\ScroViewRecycleViewDemo\\MyApplication\\pullToRefreshListFragment\\build\\intermediates\\exploded-aar\\MyApplication\\pullToRefreshLibrary\\unspecified\\res\\values-zh\\values-zh.xml",
+                    "position": {
+                        "startLine": 6,
+                        "startColumn": 4,
+                        "startOffset": 345,
+                        "endColumn": 66,
+                        "endOffset": 407
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 7,
+                    "startColumn": 4,
+                    "startOffset": 412,
+                    "endColumn": 64,
+                    "endOffset": 472
+                },
+                "from": {
+                    "file": "D:\\TalkWeb\\ScroViewRecycleViewDemo\\MyApplication\\pullToRefreshListFragment\\build\\intermediates\\exploded-aar\\MyApplication\\pullToRefreshLibrary\\unspecified\\res\\values-zh\\values-zh.xml",
+                    "position": {
+                        "startLine": 7,
+                        "startColumn": 4,
+                        "startOffset": 412,
+                        "endColumn": 64,
+                        "endOffset": 472
+                    }
+                }
+            }
+        ]
+    }
+]

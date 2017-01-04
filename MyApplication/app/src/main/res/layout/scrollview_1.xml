@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<widget.BounceScrollViewDemo xmlns:android="http://schemas.android.com/apk/res/android"
+    android:id="@+id/ScrollView"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:scrollbars="vertical">
+    <!--初始化时的数据-->
+    <LinearLayout
+        android:id="@+id/LinearLayout"
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:orientation="vertical">
+
+        <TextView
+            android:id="@+id/TestView"
+            android:layout_width="fill_parent"
+            android:layout_height="wrap_content"
+            android:text="hello world" />
+
+        <Button
+            android:id="@+id/Button"
+            android:layout_width="fill_parent"
+            android:layout_height="wrap_content"
+            android:text="哈哈"/>
+    </LinearLayout>
+
+</widget.BounceScrollViewDemo>
